@@ -1,0 +1,7 @@
+text,sentiment
+"I love this movie!",2
+"This book is great.",2
+"The weather is terrible.",0
+"The food was average.",1
+"I'm feeling happy.",2
+"I'm not sure.",1
